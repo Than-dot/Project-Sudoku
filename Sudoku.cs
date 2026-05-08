@@ -1,4 +1,4 @@
-    namespace Assignment3;
+    namespace Sudoku;
 
 using System.ComponentModel.Design;
 using System.Data;
